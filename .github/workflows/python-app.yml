@@ -34,3 +34,5 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+        git push http://s1067404_sbg.ac.at@git.codeability.uibk.ac.at/PYPLUSUE1GIT/pyplusue1git-s1067404_sbg.ac.at.git A1
+        

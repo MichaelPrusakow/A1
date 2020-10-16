@@ -1,1 +1,2 @@
-#start to work here
+def f(x, y):
+  return x/y
